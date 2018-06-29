@@ -18,7 +18,7 @@ Os projeto não terá apenas áreas técnicas, contará também com professores 
 
 
 * [Alunos](docs/Alunos.md)
-* [Arrecadação de Fundos](Arrecadação-de-Fundos.md)
+* [Arrecadação de Fundos](docs/Arrecadação-de-Fundos.md)
 * [Aulas](docs/Aulas.md)
 * [Computadores](docs/Computadores.md)
 * [Empresas](docs/Empresas.md)
