@@ -1,5 +1,13 @@
-Os alunos aprenderão a montar seus próprios computadores  e então, iniciarão um aprendizado sobre o que são cada componente de um computador e para que servem, consecutivamente, terão outras aulas mais avançadas no decorrer do projeto.   Cada aluno terá seu próprio computador, um Raspiberry alocado na parte traseira de um monitor de 21", afim de ocupar o menor espaço possível sobre a mesa ou bancada.   Ao final do curso, com prazo médio de 02 anos, o aluno poderá levar para casa seu computador e um certificado de conclusão do mesmo, informando suas aptidões para o mercado de trabalho.  
+# Alunos
+
+Os alunos aprenderão a montar seus próprios computadores e então, iniciarão um aprendizado sobre o que são cada componente de um computador e para que servem, consecutivamente, terão outras aulas mais avançadas no decorrer do projeto.
+
+Cada aluno terá seu próprio computador, um Raspiberry Pi.
+
+Ao final do curso, o aluno poderá levar para casa seu computador e um certificado de conclusão do mesmo, informando suas aptidões para o mercado de trabalho.
+
 Sobre a mensalidade, serão tomadas as seguintes iniciativas:  
+
 	•	jovens de baixa renda, matriculado em escola pública, que não possuam computador em casa:  
 	•	isenção total de mensalidade  
 	•	isenção total de custos adicionais que possam surgir no decorrer do curso  
